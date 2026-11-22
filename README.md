@@ -7,7 +7,7 @@ L'objectif principal est de permettre aux étudiants de :
 - Configurer un pipeline **SCM** (Source Code Management) avec Jenkins
 - Automatiser le **build** du projet (Maven + npm)
 - Exécuter des **tests unitaires** (si disponibles)
-- Générer un **livrable** déployable
+- Générer un **livrable** déployablee
 
 ---
 
