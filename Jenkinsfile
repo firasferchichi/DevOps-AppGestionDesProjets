@@ -1,5 +1,8 @@
 pipeline {
     agent any
+    triggers {
+        pollSCM('H/2 * * * *')
+    }
 
     tools {
         maven 'M2_HOME'
